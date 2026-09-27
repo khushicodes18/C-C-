@@ -1,1 +1,8 @@
 .DS_Store
+.DS_Store
+
+# C/C++ compiled files
+*.o
+*.out
+*.exe
+hello
